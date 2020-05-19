@@ -1,1 +1,2 @@
-demo txt for git is edited
+demo txt for newly created branch
+
