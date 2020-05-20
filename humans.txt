@@ -1,4 +1,4 @@
-for rebasing
+for stashing
 # humanstxt.org/
 # The humans responsible & technology colophon
 
