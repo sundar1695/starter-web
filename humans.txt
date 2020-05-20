@@ -1,4 +1,4 @@
-for stash
+for multiple stash
 # humanstxt.org/
 # The humans responsible & technology colophon
 
