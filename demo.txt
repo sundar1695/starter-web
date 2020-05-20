@@ -1,2 +1,1 @@
-demo txt for newly created branch
-changing in github
+demo txt for example of stash
